@@ -878,3 +878,59 @@ D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2
 D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
 D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
 D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\appsettings.json
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.config
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.application
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.pdb
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.PasswordForm.resources
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\System.Agent.Properties.Resources.resources
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.application
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
+C:\Users\Anna\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
