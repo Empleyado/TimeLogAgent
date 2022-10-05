@@ -1,0 +1,13 @@
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.config
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\bin\Debug\Timelog.Agent2.pdb
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.csprojAssemblyReference.cache
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.Form2.resources
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.Properties.Resources.resources
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.csproj.GenerateResource.cache
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.csproj.CoreCompileInputs.cache
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.csproj.CopyComplete
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001H\Desktop\timelog-master\Timelog.Agent2\obj\Debug\Timelog.Agent2.pdb

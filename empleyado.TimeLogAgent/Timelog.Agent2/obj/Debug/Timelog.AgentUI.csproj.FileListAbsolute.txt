@@ -1,0 +1,880 @@
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.config
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.pdb
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.Form2.resources
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.Properties.Resources.resources
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001H\Desktop\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.pdb
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.config
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.pdb
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.Properties.Resources.resources
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.pdb
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.manifest
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.application
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe.manifest
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.application
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\COGNITIF\Desktop\Timelogs-master\Final With Design\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.config
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.manifest
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.application
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Timelog.Agent2.pdb
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.Properties.Resources.resources
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe.manifest
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.application
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.Agent2.pdb
+C:\Users\CSI0001L\Desktop\BaseCoreProjects\empleyado.TimeLogs\TimeLog\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.config
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.manifest
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.application
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.pdb
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\netstandard.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.AppContext.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Console.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Data.Common.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Pipes.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Http.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Ping.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Requests.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Security.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Sockets.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ObjectModel.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Reader.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Writer.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Claims.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Principal.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.SecureString.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Thread.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Timer.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe.config
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.Properties.Resources.resources
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe.manifest
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.application
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.pdb
+C:\Users\COGNITIF\Documents\Visual Studio 2017\Projects\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.config
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe.manifest
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.application
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Timelog.Agent2.pdb
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\netstandard.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.AppContext.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Console.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Data.Common.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Pipes.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Http.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Ping.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Requests.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Security.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Sockets.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ObjectModel.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Reader.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Writer.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Claims.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Principal.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.SecureString.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Thread.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Timer.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe.config
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.Properties.Resources.resources
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe.manifest
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.application
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.exe
+C:\Users\CSI0001L\Desktop\UPDATED FILE\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.pdb
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\netstandard.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.AppContext.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Console.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Data.Common.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Pipes.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Http.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Ping.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Requests.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Security.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Sockets.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ObjectModel.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Reader.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Writer.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Claims.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Principal.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.SecureString.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Thread.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Timer.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\appsettings.json
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.PasswordForm.resources
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\System.Agent.Properties.Resources.resources
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.config
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.application
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.pdb
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.config
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.application
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
+C:\Users\COGNITIF\Desktop\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\appsettings.json
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.config
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.application
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.pdb
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\netstandard.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.AppContext.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Console.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Data.Common.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Pipes.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Http.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Ping.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Requests.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Security.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Sockets.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ObjectModel.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Reader.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Writer.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Claims.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Principal.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.SecureString.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Thread.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Timer.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.config
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.PasswordForm.resources
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\System.Agent.Properties.Resources.resources
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.application
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
+C:\Users\COGNITIF\Desktop\Desktop files\empleyado.TimeLogAgentLatest\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.AssemblyReference.cache
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.config
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.PasswordForm.resources
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\System.Agent.Properties.Resources.resources
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\appsettings.json
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.config
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.application
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.pdb
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\netstandard.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.AppContext.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Console.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Data.Common.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.Pipes.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Http.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Ping.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Requests.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Security.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.Sockets.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ObjectModel.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Reader.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Resources.Writer.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Claims.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.Principal.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Security.SecureString.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Thread.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Timer.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.manifest
+C:\Users\EI0003J\Desktop\New folder\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.application
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\appsettings.json
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.config
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe.manifest
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.application
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.exe
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Empleyado CLK parser.pdb
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\CircularProgressBar.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\WinFormAnimation.dll
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.pdb
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\AutoUpdater.NET.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Buffers.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Memory.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Text.Json.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\bin\Debug\System.ValueTuple.xml
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent2.PasswordForm.resources
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.Agent.AgentUI.resources
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\System.Agent.Properties.Resources.resources
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe.manifest
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.application
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Timelog.AgentUI.csproj.CopyComplete
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.exe
+D:\OneDrive\Desktop\JereFiles\TimeLogAgent\empleyado.TimeLogAgent\Timelog.Agent2\obj\Debug\Empleyado CLK parser.pdb
