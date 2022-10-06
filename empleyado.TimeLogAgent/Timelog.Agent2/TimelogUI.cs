@@ -95,6 +95,9 @@ namespace Timelog.Agent
 
         private void AgentUI_Load(object sender, EventArgs e)
         {
+            
+            CreateApexFolder();
+
             Process aProcess = Process.GetCurrentProcess();
             string aProcName = aProcess.ProcessName;
 
@@ -424,10 +427,6 @@ namespace Timelog.Agent
                     .AddJsonFile("appsettings.json", true, true)
                     .Build();
 
-                if(!Directory.Exists(@"C:\apex\datas"))
-                {
-                    Directory.CreateDirectory(@"C:\apex\datas");
-                }
 
                 if (!Directory.Exists(@"C:\empleyado\Logs\Unprocessed"))
                 {
@@ -605,6 +604,21 @@ namespace Timelog.Agent
             //this.ShowInTaskbar = false;
         }
 
+
+        private void CreateApexFolder()
+        {
+
+            if (!Directory.Exists(@"C:\apex\datas"))
+            {
+                Directory.CreateDirectory(@"C:\apex\datas");
+
+            }
+
+            if (!Directory.Exists(@"C:\apex\datas\IPSettings.txt"))
+                File.WriteAllText(Path.Combine(@"C:\apex\datas", "IPSettings.txt"), "processrawlogs.empleyado.com");
+
+
+        }
         public DataTable ConvertToDataTableDevices(string filePath, int numberOfColumns)
         {
 
@@ -633,11 +647,12 @@ namespace Timelog.Agent
         }
         public void CheckForInternetConnection()
         {
+          
 
             DataTable getIp = new DataTable();
             string domain = curdirectory;
             string getData;
-            getData = @"c:\empleyado\IPSettings.txt";
+            getData = @"C:\apex\datas\IPSettings.txt";
 
             getIp = ConvertToDataTableDevices(getData, 1);
 
