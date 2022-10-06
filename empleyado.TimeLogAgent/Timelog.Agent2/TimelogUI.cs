@@ -424,6 +424,10 @@ namespace Timelog.Agent
                     .AddJsonFile("appsettings.json", true, true)
                     .Build();
 
+                if(!Directory.Exists(@"C:\apex\datas"))
+                {
+                    Directory.CreateDirectory(@"C:\apex\datas");
+                }
 
                 if (!Directory.Exists(@"C:\empleyado\Logs\Unprocessed"))
                 {
@@ -633,18 +637,16 @@ namespace Timelog.Agent
             DataTable getIp = new DataTable();
             string domain = curdirectory;
             string getData;
-            getData = Path.Combine(domain, "IPSettings.txt");
+            getData = @"c:\empleyado\IPSettings.txt";
 
-            getIp = ConvertToDataTableDevices(getData, 2);
+            getIp = ConvertToDataTableDevices(getData, 1);
 
 
-            foreach(DataRow row in getIp.Rows)
+            foreach (DataRow row in getIp.Rows)
             {
-                IP = row[0].ToString();
-                url = row[1].ToString();
+                url = row[0].ToString();
+               
             }
-
-            
 
             if (delay <= 0)
             {
@@ -654,7 +656,7 @@ namespace Timelog.Agent
                     Ping p = new Ping();
                     PingReply r;
                     string s;
-                    s = IP;
+                    s = url;
                     r = p.Send(s);
 
                     if (r.Status == IPStatus.Success)
