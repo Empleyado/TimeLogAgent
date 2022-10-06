@@ -1,0 +1,18 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Warning"
+        }
+    },
+    "ConnectionStrings": {
+        "Storage": "STORAGE-CONNECTION-STRING"
+    },
+    "AppSettings": {
+        "Directory": "%ProgramFiles%\\empleyado\\Logs\\",
+        "ClientBase": "/api/AttLogs/InsertAttLogs",
+        //"ClientBase": "https://localhost:44370/api/AttLogs/InsertAttLogs",
+        //"TenantId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "TenantId": "00000000-0000-0000-0000-000000000000",
+        "DeviceCode": "Testing lang"
+    }
+}
