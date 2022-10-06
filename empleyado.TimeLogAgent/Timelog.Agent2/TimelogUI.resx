@@ -121,7 +121,7 @@
   <data name="TimelogIcon.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAC4iAAAuIgGq4t2SAAAAB3RJ
         TUUH4wsGAQsk0Ir6bAAAAtRJREFUSEuFlUnIzlEUh1/zGJEsFClDYWEhCwslykxRkmKBlIWdBVEWQqRY
         YINEUVgYNthaIJnnYSFDQhYyZR6e5+3+3i758tXz3fue6d7/Oefe2/Bv0d6LNR2gfZl3gcmwFU7D5cIp
         2AKToDNoq0/8mrQV3NHAK+Ah/PoP92E5dII6RpPWBKIYDbdB5x/wvcz/hTptnF+HUVDHai0QwRT4CDp8
@@ -140,7 +140,7 @@
   <data name="btnMinimized.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJ
         TUUH4woUFygXDiiFfQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABISURBVDhP
         YwCCl0D8n0wM0gtmqAOxIIkYpAekF0xIgBgkApCeUQOwGCACxK1A3IEDg+SEgRgEaGMAKWDUADQDKMpM
         FGRnhhcAKO1IoqFk8XYAAAAASUVORK5CYII=
@@ -149,7 +149,7 @@
   <data name="btnBrowse.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
-        pwAAAKcBDzod3AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJ4SURBVEhLtVZb
+        pgAAAKYB3X3/OAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJ4SURBVEhLtVZb
         axNBFM6Lf8Hf4f8QxRcftCJIMSQLAR9aUaE3TFTUSkwvtIqVWNGiWG8hUDWCmoKtViKiUBMlbSH6YjFJ
         G2zWnc8zlyQ7u5s2reTAFzZnznzfzplzZtYHoDn6A7v/RoJ7rUigj4WDT6xwsMAhnsnHx3iM51wFTyfG
         /buss0Y/kVUJ2AJVLsbneHG5HIgYe2hSxkHSCjJ8rpNP+2OFDYMCW3nrZqC5hmHnbAjIN/8f8hqq9pVI

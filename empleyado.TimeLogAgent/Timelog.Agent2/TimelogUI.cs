@@ -18,6 +18,7 @@ using Timelog.Agent2;
 using Timelog.Agent;
 using System.Reflection;
 using System.Diagnostics;
+using System.Deployment.Application;
 
 namespace Timelog.Agent
 {
@@ -43,8 +44,8 @@ namespace Timelog.Agent
             InitializeComponent();
             //this.FormBorderStyle = FormBorderStyle.None;
             this.ShowInTaskbar = false;
-        }
 
+        }
         private void btnMinimized_Click(object sender, EventArgs e)
         {
             //this.WindowState = FormWindowState.Minimized;
@@ -95,7 +96,7 @@ namespace Timelog.Agent
 
         private void AgentUI_Load(object sender, EventArgs e)
         {
-            
+      
             CreateApexFolder();
 
             Process aProcess = Process.GetCurrentProcess();
@@ -540,7 +541,7 @@ namespace Timelog.Agent
                                 var json = JsonConvert.SerializeObject(postData);
                                 var wc = new WebClient();
                                 wc.Headers["Content-Type"] = "application/json";
-                                string ClientBase = url + config["AppSettings:ClientBase"];
+                                string ClientBase = url + "//" + config["AppSettings:ClientBase"];
                                 var responseData = wc.UploadString(ClientBase, "POST", json);
                                 var today = DateTime.Now.ToString("MM/dd/yyyy HH:mm:ss");
                                 today = today.Replace(":", "").Replace(":", "");

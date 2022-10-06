@@ -61,10 +61,10 @@
             this.lblAgentVersion.BackColor = System.Drawing.Color.Transparent;
             this.lblAgentVersion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAgentVersion.ForeColor = System.Drawing.Color.Black;
-            this.lblAgentVersion.Location = new System.Drawing.Point(42, 11);
-            this.lblAgentVersion.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblAgentVersion.Location = new System.Drawing.Point(63, 17);
+            this.lblAgentVersion.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblAgentVersion.Name = "lblAgentVersion";
-            this.lblAgentVersion.Size = new System.Drawing.Size(147, 16);
+            this.lblAgentVersion.Size = new System.Drawing.Size(215, 25);
             this.lblAgentVersion.TabIndex = 20;
             this.lblAgentVersion.Text = "Empleyado CLK parser";
             this.lblAgentVersion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -74,10 +74,10 @@
             this.TimelogIcon.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TimelogIcon.ForeColor = System.Drawing.Color.Black;
             this.TimelogIcon.Image = ((System.Drawing.Image)(resources.GetObject("TimelogIcon.Image")));
-            this.TimelogIcon.Location = new System.Drawing.Point(14, 8);
-            this.TimelogIcon.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.TimelogIcon.Location = new System.Drawing.Point(21, 12);
+            this.TimelogIcon.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.TimelogIcon.Name = "TimelogIcon";
-            this.TimelogIcon.Size = new System.Drawing.Size(25, 25);
+            this.TimelogIcon.Size = new System.Drawing.Size(38, 38);
             this.TimelogIcon.TabIndex = 19;
             this.TimelogIcon.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -86,10 +86,10 @@
             this.btnMinimized.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMinimized.ForeColor = System.Drawing.Color.White;
             this.btnMinimized.Image = ((System.Drawing.Image)(resources.GetObject("btnMinimized.Image")));
-            this.btnMinimized.Location = new System.Drawing.Point(373, 6);
-            this.btnMinimized.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.btnMinimized.Location = new System.Drawing.Point(560, 9);
+            this.btnMinimized.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.btnMinimized.Name = "btnMinimized";
-            this.btnMinimized.Size = new System.Drawing.Size(23, 20);
+            this.btnMinimized.Size = new System.Drawing.Size(34, 31);
             this.btnMinimized.TabIndex = 21;
             this.btnMinimized.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMinimized.Click += new System.EventHandler(this.btnMinimized_Click);
@@ -106,7 +106,8 @@
             this.cpbStatus.InnerColor = System.Drawing.Color.WhiteSmoke;
             this.cpbStatus.InnerMargin = 2;
             this.cpbStatus.InnerWidth = -1;
-            this.cpbStatus.Location = new System.Drawing.Point(87, 44);
+            this.cpbStatus.Location = new System.Drawing.Point(130, 68);
+            this.cpbStatus.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cpbStatus.MarqueeAnimationSpeed = 4000;
             this.cpbStatus.Name = "cpbStatus";
             this.cpbStatus.OuterColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
@@ -115,7 +116,7 @@
             this.cpbStatus.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.cpbStatus.ProgressWidth = 25;
             this.cpbStatus.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cpbStatus.Size = new System.Drawing.Size(220, 214);
+            this.cpbStatus.Size = new System.Drawing.Size(330, 329);
             this.cpbStatus.StartAngle = 270;
             this.cpbStatus.SubscriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
             this.cpbStatus.SubscriptMargin = new System.Windows.Forms.Padding(10, -35, 0, 0);
@@ -136,17 +137,19 @@
             this.ProcessedPanel.Controls.Add(this.panel4);
             this.ProcessedPanel.Controls.Add(this.ProcBtn);
             this.ProcessedPanel.Controls.Add(this.lblProcessed);
-            this.ProcessedPanel.Location = new System.Drawing.Point(25, 319);
+            this.ProcessedPanel.Location = new System.Drawing.Point(38, 476);
+            this.ProcessedPanel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ProcessedPanel.Name = "ProcessedPanel";
-            this.ProcessedPanel.Size = new System.Drawing.Size(117, 110);
+            this.ProcessedPanel.Size = new System.Drawing.Size(176, 169);
             this.ProcessedPanel.TabIndex = 23;
             // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(157)))), ((int)(((byte)(203)))));
             this.panel4.Location = new System.Drawing.Point(0, 0);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(117, 7);
+            this.panel4.Size = new System.Drawing.Size(176, 11);
             this.panel4.TabIndex = 28;
             // 
             // ProcBtn
@@ -154,10 +157,10 @@
             this.ProcBtn.AutoSize = true;
             this.ProcBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ProcBtn.ForeColor = System.Drawing.Color.DimGray;
-            this.ProcBtn.Location = new System.Drawing.Point(20, 17);
-            this.ProcBtn.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.ProcBtn.Location = new System.Drawing.Point(30, 26);
+            this.ProcBtn.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.ProcBtn.Name = "ProcBtn";
-            this.ProcBtn.Size = new System.Drawing.Size(74, 16);
+            this.ProcBtn.Size = new System.Drawing.Size(105, 25);
             this.ProcBtn.TabIndex = 5;
             this.ProcBtn.Text = "Processed";
             this.ProcBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -167,10 +170,10 @@
             this.lblProcessed.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.lblProcessed.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblProcessed.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblProcessed.Location = new System.Drawing.Point(4, 38);
-            this.lblProcessed.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblProcessed.Location = new System.Drawing.Point(6, 58);
+            this.lblProcessed.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblProcessed.Name = "lblProcessed";
-            this.lblProcessed.Size = new System.Drawing.Size(109, 39);
+            this.lblProcessed.Size = new System.Drawing.Size(164, 60);
             this.lblProcessed.TabIndex = 4;
             this.lblProcessed.Text = "0";
             this.lblProcessed.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -181,17 +184,19 @@
             this.UnprocLbl.Controls.Add(this.panel5);
             this.UnprocLbl.Controls.Add(this.UnprocBtn);
             this.UnprocLbl.Controls.Add(this.lblUnprocessed);
-            this.UnprocLbl.Location = new System.Drawing.Point(143, 319);
+            this.UnprocLbl.Location = new System.Drawing.Point(214, 476);
+            this.UnprocLbl.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.UnprocLbl.Name = "UnprocLbl";
-            this.UnprocLbl.Size = new System.Drawing.Size(117, 110);
+            this.UnprocLbl.Size = new System.Drawing.Size(176, 169);
             this.UnprocLbl.TabIndex = 24;
             // 
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(251)))), ((int)(((byte)(124)))));
             this.panel5.Location = new System.Drawing.Point(0, 0);
+            this.panel5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(117, 7);
+            this.panel5.Size = new System.Drawing.Size(176, 11);
             this.panel5.TabIndex = 29;
             // 
             // UnprocBtn
@@ -199,10 +204,10 @@
             this.UnprocBtn.AutoSize = true;
             this.UnprocBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.UnprocBtn.ForeColor = System.Drawing.Color.DimGray;
-            this.UnprocBtn.Location = new System.Drawing.Point(12, 17);
-            this.UnprocBtn.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.UnprocBtn.Location = new System.Drawing.Point(18, 26);
+            this.UnprocBtn.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.UnprocBtn.Name = "UnprocBtn";
-            this.UnprocBtn.Size = new System.Drawing.Size(90, 16);
+            this.UnprocBtn.Size = new System.Drawing.Size(128, 25);
             this.UnprocBtn.TabIndex = 5;
             this.UnprocBtn.Text = "Unprocessed";
             this.UnprocBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -211,10 +216,10 @@
             // 
             this.lblUnprocessed.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUnprocessed.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblUnprocessed.Location = new System.Drawing.Point(4, 38);
-            this.lblUnprocessed.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblUnprocessed.Location = new System.Drawing.Point(6, 58);
+            this.lblUnprocessed.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblUnprocessed.Name = "lblUnprocessed";
-            this.lblUnprocessed.Size = new System.Drawing.Size(109, 39);
+            this.lblUnprocessed.Size = new System.Drawing.Size(164, 60);
             this.lblUnprocessed.TabIndex = 4;
             this.lblUnprocessed.Text = "0";
             this.lblUnprocessed.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -225,17 +230,19 @@
             this.ErrLbl.Controls.Add(this.panel6);
             this.ErrLbl.Controls.Add(this.ErrBtn);
             this.ErrLbl.Controls.Add(this.lblError);
-            this.ErrLbl.Location = new System.Drawing.Point(261, 319);
+            this.ErrLbl.Location = new System.Drawing.Point(392, 476);
+            this.ErrLbl.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ErrLbl.Name = "ErrLbl";
-            this.ErrLbl.Size = new System.Drawing.Size(117, 110);
+            this.ErrLbl.Size = new System.Drawing.Size(176, 169);
             this.ErrLbl.TabIndex = 24;
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.panel6.Location = new System.Drawing.Point(0, 0);
+            this.panel6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(117, 7);
+            this.panel6.Size = new System.Drawing.Size(176, 11);
             this.panel6.TabIndex = 29;
             // 
             // ErrBtn
@@ -243,10 +250,10 @@
             this.ErrBtn.AutoSize = true;
             this.ErrBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ErrBtn.ForeColor = System.Drawing.Color.DimGray;
-            this.ErrBtn.Location = new System.Drawing.Point(42, 17);
-            this.ErrBtn.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.ErrBtn.Location = new System.Drawing.Point(63, 26);
+            this.ErrBtn.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.ErrBtn.Name = "ErrBtn";
-            this.ErrBtn.Size = new System.Drawing.Size(37, 16);
+            this.ErrBtn.Size = new System.Drawing.Size(54, 25);
             this.ErrBtn.TabIndex = 5;
             this.ErrBtn.Text = "Error";
             this.ErrBtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -255,10 +262,10 @@
             // 
             this.lblError.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblError.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblError.Location = new System.Drawing.Point(4, 38);
-            this.lblError.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblError.Location = new System.Drawing.Point(6, 58);
+            this.lblError.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblError.Name = "lblError";
-            this.lblError.Size = new System.Drawing.Size(109, 39);
+            this.lblError.Size = new System.Drawing.Size(164, 60);
             this.lblError.TabIndex = 4;
             this.lblError.Text = "0";
             this.lblError.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -270,10 +277,10 @@
             this.txtPath.Enabled = false;
             this.txtPath.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPath.ForeColor = System.Drawing.Color.Black;
-            this.txtPath.Location = new System.Drawing.Point(25, 288);
-            this.txtPath.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPath.Location = new System.Drawing.Point(38, 428);
+            this.txtPath.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.txtPath.Name = "txtPath";
-            this.txtPath.Size = new System.Drawing.Size(290, 22);
+            this.txtPath.Size = new System.Drawing.Size(434, 30);
             this.txtPath.TabIndex = 25;
             this.txtPath.Text = "C:\\apex\\datas";
             // 
@@ -284,9 +291,10 @@
             this.btnBrowse.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBrowse.Image = ((System.Drawing.Image)(resources.GetObject("btnBrowse.Image")));
             this.btnBrowse.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnBrowse.Location = new System.Drawing.Point(319, 283);
+            this.btnBrowse.Location = new System.Drawing.Point(478, 420);
+            this.btnBrowse.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.btnBrowse.Name = "btnBrowse";
-            this.btnBrowse.Size = new System.Drawing.Size(30, 28);
+            this.btnBrowse.Size = new System.Drawing.Size(45, 43);
             this.btnBrowse.TabIndex = 27;
             this.btnBrowse.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnBrowse.Click += new System.EventHandler(this.btnBrowse_Click);
@@ -298,9 +306,10 @@
             this.btnPlayStop.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnPlayStop.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPlayStop.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnPlayStop.Location = new System.Drawing.Point(349, 283);
+            this.btnPlayStop.Location = new System.Drawing.Point(524, 420);
+            this.btnPlayStop.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.btnPlayStop.Name = "btnPlayStop";
-            this.btnPlayStop.Size = new System.Drawing.Size(32, 28);
+            this.btnPlayStop.Size = new System.Drawing.Size(48, 43);
             this.btnPlayStop.TabIndex = 26;
             this.btnPlayStop.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnPlayStop.Click += new System.EventHandler(this.btnPlayStop_Click);
@@ -317,10 +326,10 @@
             // 
             // AgentUI
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(403, 443);
+            this.ClientSize = new System.Drawing.Size(604, 682);
             this.Controls.Add(this.btnBrowse);
             this.Controls.Add(this.btnPlayStop);
             this.Controls.Add(this.txtPath);
@@ -333,6 +342,7 @@
             this.Controls.Add(this.TimelogIcon);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AgentUI";
             this.Text = "Timelog Agent";
             this.Load += new System.EventHandler(this.AgentUI_Load);
