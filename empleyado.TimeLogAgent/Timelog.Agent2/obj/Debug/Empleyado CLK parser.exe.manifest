@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GzCi/59Ry9WZa4U3eblkYdPt7nC46EfADuFjMe4CsMk=</dsig:DigestValue>
+        <dsig:DigestValue>BqtKO/5FWugdEGLihwEEgWr/n9rxgbu4eLCUbnDSRl0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -315,13 +315,13 @@
       <dsig:DigestValue>wKu54cPlBDePUE0fuFIgw73by8oPeCKQW8s3JNk0LQs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="appsettings.json" size="563">
+  <file name="appsettings.json" size="535">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SbdGAgVECNqpi4DVeFP59FXEBncoDyrBeaoAdxstKRs=</dsig:DigestValue>
+      <dsig:DigestValue>usfqc8TURyEYS56Wq3HPuGe0curSvuvd5jmmFSbAxfk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Empleyado CLK parser.exe.config" size="1526">

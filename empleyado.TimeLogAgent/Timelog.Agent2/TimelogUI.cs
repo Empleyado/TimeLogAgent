@@ -541,7 +541,7 @@ namespace Timelog.Agent
                                 var json = JsonConvert.SerializeObject(postData);
                                 var wc = new WebClient();
                                 wc.Headers["Content-Type"] = "application/json";
-                                string ClientBase = url + "//" + config["AppSettings:ClientBase"];
+                                string ClientBase = "https://" +url + config["AppSettings:ClientBase"];
                                 var responseData = wc.UploadString(ClientBase, "POST", json);
                                 var today = DateTime.Now.ToString("MM/dd/yyyy HH:mm:ss");
                                 today = today.Replace(":", "").Replace(":", "");
